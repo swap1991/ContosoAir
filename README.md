@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/SwapnilKarande0999/ContosoAir/_apis/build/status/swap1991.ContosoAir?branchName=master)](https://dev.azure.com/SwapnilKarande0999/ContosoAir/_build/latest?definitionId=4&branchName=master)
 
 
 # Microsoft.Github CI Demo
